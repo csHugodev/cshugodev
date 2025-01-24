@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hccontreras/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cs.hugoc@gmail.com)
 
-Welcome to my Github page! I am a mechatronics engineer working on developing automation solutions for linux.
+Welcome to my Github page! I am a mechatronics engineer working on developing creative Python 🐍 solutions.
 
 # 🚀 About
 ![Python application](https://github.com/rafnixg/rafnixg/workflows/Python%20application/badge.svg?branch=master&event=schedule)
@@ -15,12 +15,11 @@ class csHugoDev:
         self.username = 'csHugoDev'
         self.name = 'Hugo Contreras'
         self.code = {
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS'],
+            'frontend': ['HTML', 'CSS', 'JavaScript'],
             'backend': ['Python', 'Flask', 'Django'],
-            'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
-            'devops': ['Docker'],
-            'tools': ['GIT', 'GitHub', 'Pandas', 'Jupyter notebook', 'SQLAlchemy'],
-            'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'GNU/Linux']
+            'database': ['MySQL', 'SQLite3', 'Mongo DB'],
+            'tools': ['GIT', 'GitHub', 'Pandas', 'Google Colab', 'VSCode', 'Pycharm'],
+            'misc': ['SCRUM', 'GNU/Linux']
         }
         self.architecture = ['SPA', 'MVC', 'Serverless', 'microservices']
 
@@ -38,7 +37,7 @@ if __name__ == '__main__':
 - Finishing projects for fun 
 - Taking online courses about Data Science and Machine Learning 
 - Seeking improvement in algorithms 🐍
-
+- Learning to learn
   
 <!--
 **csHugodev/cshugodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
