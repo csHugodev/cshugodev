@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hccontreras/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cs.hugoc@gmail.com)
 
-Welcome to my Github page! I am a mechatronics engineer working on developing creative Python 🐍 solutions.
+Welcome to my Github page! I am a mechatronics engineer working on developing creative Python solutions.🐍
 
 # 🚀 About
 ![Python application](https://github.com/rafnixg/rafnixg/workflows/Python%20application/badge.svg?branch=master&event=schedule)
